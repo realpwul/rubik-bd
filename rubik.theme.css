@@ -1,0 +1,33 @@
+/**
+ * @name Rubik
+ * @description Simple but better looking Discord
+ * @author Pwul#2022
+ * @version 2.0.0
+ * @authorId 851448600121966633
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@100;300;400;500;700&display=swap');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
+
+:root {
+  --accentcolor: 114,137,218;
+  --accentcolor2: 255,115,250;
+  --linkcolor: 0,176,244;
+  --mentioncolor: 250,166,26;
+  --textbrightest: 255,255,255;
+  --textbrighter: 222,222,222;
+  --textbright: 185,185,185;
+  --textdark: 140,140,140;
+  --textdarker: 115,115,115;
+  --textdarkest: 80,80,80;
+  --font: Rubik;
+  --backgroundaccent: 50,50,50;
+  --backgroundprimary: 44,47,51;
+  --backgroundsecondary: 35,39,42;
+  --backgroundsecondaryalt: 35,39,42;
+  --backgroundtertiary: 35,39,42;
+  --backgroundfloating: 0,0,1;
+  --settingsicons: 1;
+}
+
+
